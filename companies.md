@@ -234,9 +234,7 @@ http://www.tune.com/
 
 ## U 
 
-**University of Washington**
-
-**Office of Research Information Services**
+**University of Washington, Office of Research Information Services**
 ```
 UW Tower O2
 4333 Brooklyn Ave NE
